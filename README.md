@@ -133,6 +133,13 @@ This project is useful for:
 Amol Hatwar
 Excel | VBA | Data Analytics
 
+📬 Contact Me
+If you’d like to collaborate, discuss a project, or simply connect — I’m always open.
+
+🌍 🔗 [Portfolio Website](https://amolhatwar.github.io)
+🐙🔗 [GitHub](https://github.com/amolhatwar)
+💼 🔗 [LinkedIn](https://www.linkedin.com/in/amolhatwar)
+
 ---
 
 ⭐ If you found this project useful, consider giving it a star.
